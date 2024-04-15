@@ -1,5 +1,4 @@
 
-## FUNCTIONS TO OVERLAYS ALL PICS!!
 get_ipython().magic('matplotlib inline')
 import cv2
 from matplotlib import pyplot as plt
